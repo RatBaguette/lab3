@@ -6,7 +6,7 @@ def test_calc_median_temperature():
     result = exercise6.calc_median_temperature(arr)
     assert (expected_result == result)
 
-def test_clac_average_temperature():z
+def test_clac_average_temperature():
     expected_result = 2
     arr = [1,2,3]
     result = exercise6.calc_average_temperature(arr)
